@@ -1,7 +1,7 @@
 package com.rmuti.lab3;
 
 
-public class BinaryTree {
+public class lab4 {
 
 	  Node root;
 	 	 
@@ -121,7 +121,7 @@ public class BinaryTree {
 	  	 
 	  	public static void main(String[] args) {
 	  	 
-	  	        BinaryTree theTree = new BinaryTree();
+	  	        lab4 theTree = new lab4();
 	  	 
 	  	        theTree.AddNode(50,"A");
 	  	
